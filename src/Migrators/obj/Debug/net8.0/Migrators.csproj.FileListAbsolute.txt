@@ -1,0 +1,6 @@
+D:\study\FloodRescueDispatch\src\Migrators\obj\Debug\net8.0\Migrators.csproj.AssemblyReference.cache
+D:\study\FloodRescueDispatch\src\Migrators\obj\Debug\net8.0\Migrators.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\FloodRescueDispatch\src\Migrators\obj\Debug\net8.0\Migrators.AssemblyInfoInputs.cache
+D:\study\FloodRescueDispatch\src\Migrators\obj\Debug\net8.0\Migrators.AssemblyInfo.cs
+D:\study\FloodRescueDispatch\src\Migrators\obj\Debug\net8.0\Migrators.csproj.CoreCompileInputs.cache
+D:\study\FloodRescueDispatch\src\Migrators\obj\Debug\net8.0\EFCoreNpgsqlNetTopologySuite.cs

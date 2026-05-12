@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Core/Core.csproj" />
+    <Project Path="src/Infrastructure/Infrastructure.csproj" />
+    <Project Path="src/Migrators/PostgreSQL/Migrators.PostgreSQL.csproj" />
+    <Project Path="src/Web/Web.csproj" />
+  </Folder>
+</Solution>

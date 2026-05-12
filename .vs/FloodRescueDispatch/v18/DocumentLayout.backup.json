@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\FloodRescueDispatch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A767F6CA-5C68-46E3-877F-F65C8DCAF461}|src\\Infrastructure\\Infrastructure.csproj|d:\\study\\floodrescuedispatch\\src\\infrastructure\\postgis\\postgisgeoqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A767F6CA-5C68-46E3-877F-F65C8DCAF461}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\postgis\\postgisgeoqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|d:\\study\\floodrescuedispatch\\src\\web\\controllers\\floodzonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|solutionrelative:src\\web\\controllers\\floodzonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|d:\\study\\floodrescuedispatch\\src\\web\\controllers\\dispatchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|solutionrelative:src\\web\\controllers\\dispatchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|d:\\study\\floodrescuedispatch\\src\\web\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|solutionrelative:src\\web\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|d:\\study\\floodrescuedispatch\\src\\web\\controllers\\alertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|solutionrelative:src\\web\\controllers\\alertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|d:\\study\\floodrescuedispatch\\src\\web\\controllers\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|solutionrelative:src\\web\\controllers\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|d:\\study\\floodrescuedispatch\\src\\web\\controllers\\rescueteamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|solutionrelative:src\\web\\controllers\\rescueteamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|d:\\study\\floodrescuedispatch\\src\\web\\controllers\\shelterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|solutionrelative:src\\web\\controllers\\shelterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|d:\\study\\floodrescuedispatch\\src\\web\\controllers\\soscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|solutionrelative:src\\web\\controllers\\soscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A0B04D-4A9E-4195-BC80-DF3518361347}|src\\Migrators\\PostgreSQL\\Migrators.PostgreSQL.csproj|d:\\study\\floodrescuedispatch\\src\\migrators\\postgresql\\migrations\\20260506080036_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A0B04D-4A9E-4195-BC80-DF3518361347}|src\\Migrators\\PostgreSQL\\Migrators.PostgreSQL.csproj|solutionrelative:src\\migrators\\postgresql\\migrations\\20260506080036_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A0B04D-4A9E-4195-BC80-DF3518361347}|src\\Migrators\\PostgreSQL\\Migrators.PostgreSQL.csproj|d:\\study\\floodrescuedispatch\\src\\migrators\\postgresql\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A0B04D-4A9E-4195-BC80-DF3518361347}|src\\Migrators\\PostgreSQL\\Migrators.PostgreSQL.csproj|solutionrelative:src\\migrators\\postgresql\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A0B04D-4A9E-4195-BC80-DF3518361347}|src\\Migrators\\PostgreSQL\\Migrators.PostgreSQL.csproj|d:\\study\\floodrescuedispatch\\src\\migrators\\postgresql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25A0B04D-4A9E-4195-BC80-DF3518361347}|src\\Migrators\\PostgreSQL\\Migrators.PostgreSQL.csproj|solutionrelative:src\\migrators\\postgresql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|d:\\study\\floodrescuedispatch\\src\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A92983B-08EE-476F-BD75-97B83ED9502D}|src\\Web\\Web.csproj|solutionrelative:src\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostGisGeoQueryService.cs",
+              "DocumentMoniker": "D:\\study\\FloodRescueDispatch\\src\\Infrastructure\\PostGIS\\PostGisGeoQueryService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\PostGIS\\PostGisGeoQueryService.cs",
+              "ToolTip": "D:\\study\\FloodRescueDispatch\\src\\Infrastructure\\PostGIS\\PostGisGeoQueryService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\PostGIS\\PostGisGeoQueryService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:26:20.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlertsController.cs",
+              "DocumentMoniker": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\AlertsController.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Controllers\\AlertsController.cs",
+              "ToolTip": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\AlertsController.cs",
+              "RelativeToolTip": "src\\Web\\Controllers\\AlertsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:22:53.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DispatchController.cs",
+              "DocumentMoniker": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\DispatchController.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Controllers\\DispatchController.cs",
+              "ToolTip": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\DispatchController.cs",
+              "RelativeToolTip": "src\\Web\\Controllers\\DispatchController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:22:48.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapController.cs",
+              "DocumentMoniker": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\MapController.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Controllers\\MapController.cs",
+              "ToolTip": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\MapController.cs",
+              "RelativeToolTip": "src\\Web\\Controllers\\MapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:22:43.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RescueTeamsController.cs",
+              "DocumentMoniker": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\RescueTeamsController.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Controllers\\RescueTeamsController.cs",
+              "ToolTip": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\RescueTeamsController.cs",
+              "RelativeToolTip": "src\\Web\\Controllers\\RescueTeamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:22:41.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SheltersController.cs",
+              "DocumentMoniker": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\SheltersController.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Controllers\\SheltersController.cs",
+              "ToolTip": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\SheltersController.cs",
+              "RelativeToolTip": "src\\Web\\Controllers\\SheltersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:22:38.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SosController.cs",
+              "DocumentMoniker": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\SosController.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Controllers\\SosController.cs",
+              "ToolTip": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\SosController.cs",
+              "RelativeToolTip": "src\\Web\\Controllers\\SosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:22:35.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "src\\Web\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:22:28.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FloodZonesController.cs",
+              "DocumentMoniker": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\FloodZonesController.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Controllers\\FloodZonesController.cs",
+              "ToolTip": "D:\\study\\FloodRescueDispatch\\src\\Web\\Controllers\\FloodZonesController.cs",
+              "RelativeToolTip": "src\\Web\\Controllers\\FloodZonesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:03:59.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260506080036_InitDatabase.cs",
+              "DocumentMoniker": "D:\\study\\FloodRescueDispatch\\src\\Migrators\\PostgreSQL\\Migrations\\20260506080036_InitDatabase.cs",
+              "RelativeDocumentMoniker": "src\\Migrators\\PostgreSQL\\Migrations\\20260506080036_InitDatabase.cs",
+              "ToolTip": "D:\\study\\FloodRescueDispatch\\src\\Migrators\\PostgreSQL\\Migrations\\20260506080036_InitDatabase.cs",
+              "RelativeToolTip": "src\\Migrators\\PostgreSQL\\Migrations\\20260506080036_InitDatabase.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAjwGMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:00:37.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "D:\\study\\FloodRescueDispatch\\src\\Migrators\\PostgreSQL\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "src\\Migrators\\PostgreSQL\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "D:\\study\\FloodRescueDispatch\\src\\Migrators\\PostgreSQL\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "src\\Migrators\\PostgreSQL\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T03:13:52.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\study\\FloodRescueDispatch\\src\\Migrators\\PostgreSQL\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Migrators\\PostgreSQL\\appsettings.json",
+              "ToolTip": "D:\\study\\FloodRescueDispatch\\src\\Migrators\\PostgreSQL\\appsettings.json",
+              "RelativeToolTip": "src\\Migrators\\PostgreSQL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-06T03:07:07.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\study\\FloodRescueDispatch\\src\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Web\\appsettings.json",
+              "ToolTip": "D:\\study\\FloodRescueDispatch\\src\\Web\\appsettings.json",
+              "RelativeToolTip": "src\\Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-06T03:06:53.816Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 116,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
